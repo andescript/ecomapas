@@ -1,0 +1,24 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 11 Dec 2025 14:03:00 at https://ourawakawakak.tumblr.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%u%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://ourawakawakak.tumblr.com/ -O1 "C:\Mis lugares Web\ecomapas" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:03:16	Error: 	"Not Found" (404) at link https://ourawakawakak.tumblr.com/android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=ourawakawakak (from https://ourawakawakak.tumblr.com/)
+14:03:16	Error: 	"Not Found" (404) at link https://ourawakawakak.tumblr.com/ios-app://305343404/tumblr/x-callback-url/blog?blogName=ourawakawakak (from https://ourawakawakak.tumblr.com/)
+14:03:29	Warning: 	Link https://ourawakawakak.tumblr.com/analytics.html not scanned (follow robots meta tag)
+14:03:29	Error: 	"Not Found" (404) at link https://ourawakawakak.tumblr.com/post/186800128144/android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=ourawakawakak%26postID=186800128144 (from https://ourawakawakak.tumblr.com/post/186800128144/introducci%C3%B3n)
+14:03:29	Error: 	"Not Found" (404) at link https://ourawakawakak.tumblr.com/post/186800128144/ios-app://305343404/tumblr/x-callback-url/blog?blogName=ourawakawakak&postID=186800128144 (from https://ourawakawakak.tumblr.com/post/186800128144/introducci%C3%B3n)
+14:03:29	Error: 	"Error when decompressing" (-1) at link https://ourawakawakak.tumblr.com/post/186800128144/introducción/amp (from https://ourawakawakak.tumblr.com/post/186800128144/introducci%C3%B3n)
+14:03:29	Error: 	"Not Found" (404) at link https://ourawakawakak.tumblr.com/image/'https://www.webpay.cl/assets/img/boton_webpaycl.svg' (from https://ourawakawakak.tumblr.com/image/186592242414)
+14:03:30	Error: 	"Not Found" (404) at link https://ourawakawakak.tumblr.com/post/186592242414/android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=ourawakawakak%26postID=186592242414 (from https://ourawakawakak.tumblr.com/post/186592242414/marco-general-del-ecomapa-de-redes-focales-para)
+14:03:30	Error: 	"Not Found" (404) at link https://ourawakawakak.tumblr.com/post/186592242414/ios-app://305343404/tumblr/x-callback-url/blog?blogName=ourawakawakak&postID=186592242414 (from https://ourawakawakak.tumblr.com/post/186592242414/marco-general-del-ecomapa-de-redes-focales-para)
+14:03:35	Error: 	"Not Found" (404) at link https://ourawakawakak.tumblr.com/post/186592208464/android-app://com.tumblr/tumblr/x-callback-url/blog?blogName=ourawakawakak%26postID=186592208464 (from https://ourawakawakak.tumblr.com/post/186592208464/marco-general-del-ecomapa-de-redes-focales-para)
+14:03:35	Error: 	"Not Found" (404) at link https://ourawakawakak.tumblr.com/post/186592208464/ios-app://305343404/tumblr/x-callback-url/blog?blogName=ourawakawakak&postID=186592208464 (from https://ourawakawakak.tumblr.com/post/186592208464/marco-general-del-ecomapa-de-redes-focales-para)
+14:03:36	Error: 	"Not Found" (404) at link https://ourawakawakak.tumblr.com/Popover requires tooltip.js (from https://static.tumblr.com/xdfupan/wtRnlgd22/themelantic.js)
+14:03:39	Error: 	"Not Found" (404) at link https://ourawakawakak.tumblr.com/'https://www.webpay.cl/assets/img/boton_webpaycl.svg' (from https://ourawakawakak.tumblr.com/archive)
+
+HTTrack Website Copier/3.49-2 mirror complete in 39 seconds : 80 links scanned, 66 files written (7114504 bytes overall) [3568600 bytes received at 91502 bytes/sec], 6203822 bytes transferred using HTTP compression in 57 files, ratio 31%, 3.3 requests per connection
+(12 errors, 1 warnings, 0 messages)
